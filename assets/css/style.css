@@ -1,0 +1,18 @@
+.jumbotron {
+    text-align:center;
+    font-size: 48px; 
+    background-color: #20315A; 
+    color: white; 
+    border-radius: 6px;
+    margin: 0 50px 50px 50px;
+}
+.fa-newspaper {
+    margin-right: 10px; 
+}
+.card {
+    margin: 50px; 
+}
+.card-header {
+    background-color: #20315A;
+    color: white;
+}
